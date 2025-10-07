@@ -436,6 +436,8 @@ Bioinformatics | Transcriptomics | Functional Genomics
 🔗 GitHub Profile (https://github.com/DEBOPRIYA2320)
 
 🔗 LinkedIn (www.linkedin.com/in/debopriya2320)
+ 
+- Email: debopriya2320@example.com
 
 📜 License
 This project is licensed under the MIT License — open for educational and research use.
