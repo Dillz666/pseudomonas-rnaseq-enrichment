@@ -1,4 +1,4 @@
-# 🧬 RNA-Seq Expression Analysis & Enrichment — *Pseudomonas aeruginosa* SigX Study
+# 🧬 RNA-Seq Expression Analysis & Enrichment — *Pseudomonas aeruginosa*
 
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-blue)
 ![RNA-seq](https://img.shields.io/badge/Analysis-RNA--seq%20Expression%20Analysis-orange)
