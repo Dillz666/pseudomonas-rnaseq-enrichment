@@ -427,7 +427,7 @@ DESeq2 FastQC STAR featureCounts GO KEGG STRINGdb
 Antibiotic Resistance Bioinformatics Transcriptomics
 
 📄 Project Report
-📘 Expression Data Analysis and Enrichment(GITHUB).pdf
+📘 https://github.com/DEBOPRIYA2320/pseudomonas-rnaseq-enrichment/blob/168a8986a55383bb225e32baa9af1ebdf7406590/Expression%20Data%20Analysis%20and%20Enrichment(GITHUB).pdf
 
 👩‍💻 Author
 Debopriya
